@@ -1,137 +1,176 @@
-# Hi there 👋 I'm Adithya Chaitanya
+<!-- Profile README for Adithya Chaitanya -->
 
-## Senior AI/ML Engineer | Generative AI | Agentic AI | Cloud AI Architect
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=1c1e40:0B0F19,45:1E3A5F,100:2F4F4F&text=Adithya%20Chaitanya&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=Senior%20AI%2FML%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI%20%7C%20Cloud%20AI&descAlignY=58&descSize=18" />
+</p>
 
-I’m a Senior AI/ML Engineer with 11+ years of experience building scalable AI systems, enterprise machine learning platforms, Generative AI applications, and cloud-native intelligent solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1200&color=27204f&center=true&vCenter=true&width=1150&lines=Extensive+Years+of+Enterprise+AI%2FML+Engineering;Building+Production-Grade+GenAI+and+RAG+Systems;Agentic+AI+%7C+LLM+Orchestration+%7C+MLOps;Cloud-Native+AI+Across+AWS%2C+Azure+and+GCP;Turning+Complex+AI+Ideas+into+Scalable+Systems" />
+</p>
 
-I specialize in designing production-grade AI architectures using LLMs, RAG pipelines, Agentic AI workflows, distributed ML systems, and enterprise-scale data platforms.
+<p align="center">
+  <a href="https://www.linkedin.com/in/adithyachaitanya-m">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:Adithyachaitanyam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
----
-
-## 🚀 About Me
-
-- 🔭 Building enterprise AI systems powered by **LLMs, RAG, and Agentic AI**
-- 🤖 Working on **Generative AI applications** using modern orchestration frameworks
-- ☁️ Designing scalable AI solutions on **AWS, Azure, and GCP**
-- 📊 Experienced in **Machine Learning, NLP, Deep Learning, and MLOps**
-- 🧠 Passionate about production-ready AI engineering and intelligent automation
-- ⚡ Focused on scalable APIs, distributed AI workloads, and cloud-native architectures
-- 📚 Continuously exploring advanced AI orchestration, multi-agent systems, and retrieval optimization
-
----
-
-## 🛠️ Tech Stack
-
-### Generative AI & LLM Engineering
-- LangChain
-- LangGraph
-- LlamaIndex
-- OpenAI
-- Anthropic
-- AWS Bedrock
-- RAG Pipelines
-- Prompt Engineering
-- Agentic AI
-- LLM Evaluation
-
-### Machine Learning & Deep Learning
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- Keras
-- XGBoost
-- Transformers
-- CNNs
-- RNNs
-
-### NLP & Retrieval Systems
-- Hugging Face
-- BERT
-- GPT
-- T5
-- spaCy
-- NLTK
-- Pinecone
-- Weaviate
-- FAISS
-- ChromaDB
-- Semantic Search
-- Vector Search
-
-### Backend & API Development
-- Python
-- FastAPI
-- Flask
-- Django
-- REST APIs
-- Microservices
-- Spring Boot
-- Java
-
-### Cloud & MLOps
-- AWS
-- Azure
-- GCP
-- SageMaker
-- Docker
-- Kubernetes
-- MLflow
-- Kubeflow
-- CI/CD Pipelines
-
-### Data Engineering & Analytics
-- Apache Spark
-- PySpark
-- Snowflake
-- Hadoop
-- BigQuery
-- PostgreSQL
-- MongoDB
-- Elasticsearch
+</p>
 
 ---
 
-## 💡 What I Do
+## 👋 About Me
 
-### 🤖 Enterprise AI Solutions
-Design and develop scalable AI platforms using Large Language Models, Retrieval-Augmented Generation (RAG), and Agentic AI systems.
+I am a **Senior AI/ML Engineer with 11+ years of experience** designing, building, deploying, and scaling enterprise-grade AI systems.
 
-### 🔍 Intelligent Search & Knowledge Systems
-Build semantic search engines, vector retrieval systems, contextual AI assistants, and enterprise knowledge automation workflows.
+My work focuses on **Generative AI, Agentic AI, RAG pipelines, LLM orchestration, MLOps, cloud-native AI platforms, and production machine learning systems**.
 
-### ⚙️ AI Platform Engineering
-Develop production-grade AI infrastructure with model deployment pipelines, monitoring, orchestration, and governance frameworks.
-
-### ☁️ Cloud-Native AI Architectures
-Architect secure and scalable AI ecosystems using AWS, Azure, and GCP cloud services.
-
-### 📈 Machine Learning Systems
-Build predictive models, NLP systems, forecasting engines, anomaly detection systems, and real-time inference platforms.
+I enjoy building AI solutions that are not just experimental, but reliable, secure, scalable, observable, and ready for real-world enterprise usage.
 
 ---
 
-## 📌 Areas of Interest
+## 🧠 What I Do
 
-- Generative AI
-- Agentic AI
-- Multi-Agent Systems
-- Retrieval-Augmented Generation (RAG)
-- AI Infrastructure
-- LLM Evaluation
-- AI Security & Governance
-- Distributed ML Systems
-- NLP & Semantic Retrieval
-- MLOps & AI Observability
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Generative AI Engineering
+- Build LLM-powered applications
+- Design prompt workflows
+- Develop RAG-based knowledge systems
+- Improve grounding and response quality
+- Work with enterprise AI assistants
+
+</td>
+<td width="50%">
+
+### ⚙️ Agentic AI Systems
+- Build multi-step AI workflows
+- Design tool-calling systems
+- Implement LangChain and LangGraph flows
+- Create intelligent automation pipelines
+- Develop reasoning-based AI applications
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Cloud AI Architecture
+- Build AI platforms on AWS, Azure, and GCP
+- Deploy scalable model inference services
+- Design serverless and containerized workloads
+- Implement secure cloud-native AI systems
+
+</td>
+<td width="50%">
+
+### 📈 MLOps & AI Reliability
+- Build ML pipelines
+- Track experiments and model versions
+- Deploy models using CI/CD
+- Monitor latency, accuracy, drift, and failures
+- Improve production AI reliability
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Technical Skills
 
-- LinkedIn: www.linkedin.com/in/adithyachaitanya-m
-- Email: Adithyachaitanyam@gmail.com
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:111827,50:1E3A5F,100:0F766E&text=Technical%20Arsenal&fontColor=F8FAFC&fontSize=28&animation=fadeIn" />
+</p>
+
+### 🤖 Generative AI & LLM Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-C8E6C9?style=for-the-badge&logo=chainlink&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/LangGraph-D1C4E9?style=for-the-badge&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-FFE0B2?style=for-the-badge&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/OpenAI-B2DFDB?style=for-the-badge&logo=openai&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/Anthropic-CFD8DC?style=for-the-badge&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/AWS_Bedrock-B3E5FC?style=for-the-badge&logo=amazonaws&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-FFCCBC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-E1BEE7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-DCEDC8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM_Evaluation-F8BBD0?style=for-the-badge"/>
+</p>
+
+### 🧠 Machine Learning & Deep Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-B3E5FC?style=for-the-badge&logo=scikitlearn&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FFE082?style=for-the-badge&logo=tensorflow&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/PyTorch-FFAB91?style=for-the-badge&logo=pytorch&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/Keras-F8BBD0?style=for-the-badge&logo=keras&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/XGBoost-C5CAE9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transformers-D7CCC8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CNNs-B2EBF2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RNNs-DCEDC8?style=for-the-badge"/>
+</p>
+
+### 🔍 NLP, Vector Search & Retrieval
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFE082?style=for-the-badge&logo=huggingface&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/BERT-C8E6C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GPT-B2DFDB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/T5-D1C4E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/spaCy-C5CAE9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLTK-FFCCBC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pinecone-C5E1A5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Weaviate-B39DDB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-B3E5FC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FFE0B2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Semantic_Search-CFD8DC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hybrid_Retrieval-E6EE9C?style=for-the-badge"/>
+</p>
+
+### ☁️ Cloud, DevOps & MLOps
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FFE082?style=for-the-badge&logo=amazonaws&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/Azure-B3E5FC?style=for-the-badge&logo=microsoftazure&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/GCP-C8E6C9?style=for-the-badge&logo=googlecloud&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/SageMaker-FFCCBC?style=for-the-badge&logo=amazonaws&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/Docker-90CAF9?style=for-the-badge&logo=docker&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/Kubernetes-C5CAE9?style=for-the-badge&logo=kubernetes&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/MLflow-CE93D8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kubeflow-B2DFDB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI/CD-FFE0B2?style=for-the-badge"/>
+</p>
+
+### 💻 Programming, APIs & Data Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-B3E5FC?style=for-the-badge&logo=python&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/FastAPI-C8E6C9?style=for-the-badge&logo=fastapi&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/Flask-DCEDC8?style=for-the-badge&logo=flask&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/Django-D1C4E9?style=for-the-badge&logo=django&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FFE0B2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-FFCCBC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-F8BBD0?style=for-the-badge&logo=apachespark&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/PySpark-B2EBF2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Snowflake-C5CAE9?style=for-the-badge&logo=snowflake&logoColor=1F2937"/>
+  <img src="https://img.shields.io/badge/BigQuery-C8E6C9?style=for-the-badge&logo=googlecloud&logoColor=1F2937"/>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## 📌 Focus Areas
 
-I enjoy transforming complex AI concepts into scalable real-world systems that solve meaningful business problems.
+```txt
+Generative AI        ████████████████████
+Agentic AI           ███████████████████
+RAG Systems          ████████████████████
+MLOps                ██████████████████
+Cloud AI             ██████████████████
+NLP                  █████████████████
+Data Engineering     ████████████████
+Backend APIs         ████████████████
